@@ -41,7 +41,7 @@ led_config_t g_led_config = {
     },
     // LED Index to Physical Positon
     {
-        { 192 , 56 },
+        {0.8},
         // { 224 , 64 },
         // {32,16},
     },
