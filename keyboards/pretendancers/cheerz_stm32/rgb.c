@@ -41,13 +41,13 @@ led_config_t g_led_config = {
     },
     // LED Index to Physical Positon
     {
-        {0.8},
+        {0. 8},
+        {32,16},
         // { 224 , 64 },
-        // {32,16},
     },
     //  LED Index to Flag
     //  https://docs.qmk.fm/#/feature_rgb_matrix?id=flags
-    {1}
+    {1,1}
 };
 
 
