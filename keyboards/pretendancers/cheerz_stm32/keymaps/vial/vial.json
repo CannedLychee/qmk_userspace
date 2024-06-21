@@ -5,7 +5,7 @@
     "cols": 10
   },
   "layouts": {
-    "labels": ["Split Left Space", "Split Right Space",["1.25u Enter","ANSI Enter"]],
+    "labels": ["Split Left Space", "Split Right Space",["Enter","1.25u Enter","ANSI Enter"]],
     "keymap": [
       [
         { "r": 7, "rx": 6.25, "ry": 2.75, "y": -2, "x": -6 },
