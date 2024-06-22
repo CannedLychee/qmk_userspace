@@ -14,4 +14,4 @@ AUDIO_ENABLE = no           # Audio output
 
 # Disable unsupported hardware
 AUDIO_SUPPORTED = no
-# DEFAULT_FOLDER = lazydesigners/dimple/staggered/rev1
+DEFAULT_FOLDER = lazydesigners/dimple/staggered/rev1

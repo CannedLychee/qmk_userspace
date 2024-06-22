@@ -22,8 +22,3 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
-
-
-#define VIAL_TAP_DANCE_ENTRIES 16
-#define VIAL_COMBO_ENTRIES 16
-#define DYNAMIC_KEYMAP_LAYER_COUNT 8
