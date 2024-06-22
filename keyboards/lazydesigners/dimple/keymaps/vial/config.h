@@ -6,6 +6,10 @@
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 2 }
 #define VIAL_UNLOCK_COMBO_COLS { 0, 10 }
 
+#define VIAL_COMBO_ENTRIES 16
+#define DYNAMIC_KEYMAP_LAYER_COUNT 8
+#define VIAL_TAP_DANCE_ENTRIES 16
+
 #if defined(KEYBOARD_lazydesigners_dimple_staggered_rev3)
 #    define LAYOUT LAYOUT_all
 #endif
